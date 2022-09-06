@@ -1,0 +1,15 @@
+* {
+    padding: auto;
+    margin: 0;
+}
+
+#Container h1 {
+    background-color: green;
+    color: red;
+    font-family: Arial;
+    text-align: center;
+}
+
+*S1 p {
+    color: blue;
+}
